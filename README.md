@@ -1,3 +1,3 @@
 # Machine-Learning-Algorithms
 All algorithms of ML 
-With the help of reputed youtube channel called as CodeBasic
+With the help of youtube learning
